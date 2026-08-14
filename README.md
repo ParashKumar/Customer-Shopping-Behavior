@@ -57,8 +57,6 @@ The dataset contains structured information that is analyzed to identify pattern
 ## Dashboard
 
 The Power BI dashboard provides an interactive view of the analyzed data.
-
-> Add your Power BI dashboard screenshot here.
 <img width="622" height="338" alt="Screenshot (66)" src="https://github.com/user-attachments/assets/bded572b-83d0-4367-834a-67b1e0fb64f3" />
 
 
